@@ -1,0 +1,1 @@
+Turn your STM8S-Discovery to semiconductor testing device. Code ported from excellent http://www.mikrocontroller.net/articles/AVR-Transistortester project.
